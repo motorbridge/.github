@@ -74,5 +74,4 @@ We welcome you to bring your motors, your robots, and your application scenarios
 Whether you're into embedded systems, motion planning, web tooling, or just want to drive motors — this is a bottom-up, fully open-source community, and **everyone is welcome to contribute.**
 
 - Open an issue or PR in any of our repos
-- Drop a mail: **tian.r.king@gmail.com**
-- Maintainer: [@tianrking](https://github.com/tianrking)
+
